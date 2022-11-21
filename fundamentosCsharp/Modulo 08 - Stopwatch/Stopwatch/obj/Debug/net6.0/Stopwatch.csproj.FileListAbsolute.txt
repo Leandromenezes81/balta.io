@@ -1,0 +1,15 @@
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/bin/Debug/net6.0/Stopwatch
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/bin/Debug/net6.0/Stopwatch.deps.json
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/bin/Debug/net6.0/Stopwatch.runtimeconfig.json
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/bin/Debug/net6.0/Stopwatch.dll
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/bin/Debug/net6.0/ref/Stopwatch.dll
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/bin/Debug/net6.0/Stopwatch.pdb
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.AssemblyReference.cache
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/obj/Debug/net6.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfoInputs.cache
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfo.cs
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.CoreCompileInputs.cache
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/obj/Debug/net6.0/Stopwatch.dll
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/obj/Debug/net6.0/ref/Stopwatch.dll
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/obj/Debug/net6.0/Stopwatch.pdb
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/obj/Debug/net6.0/Stopwatch.genruntimeconfig.cache

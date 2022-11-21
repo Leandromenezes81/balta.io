@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 06 - Calculator/Calculator/Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 06 - Calculator/Calculator/Calculator.csproj",
+      "projectUniqueName": "/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/Stopwatch.csproj",
+      "projectName": "Stopwatch",
+      "projectPath": "/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/Stopwatch.csproj",
       "packagesPath": "/home/leandro/.nuget/packages/",
-      "outputPath": "/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 06 - Calculator/Calculator/obj/",
+      "outputPath": "/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 08 - Stopwatch/Stopwatch/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/leandro/.nuget/NuGet/NuGet.Config"
