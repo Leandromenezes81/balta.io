@@ -1,0 +1,15 @@
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/bin/Debug/net6.0/TextEditor
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/bin/Debug/net6.0/TextEditor.deps.json
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/bin/Debug/net6.0/TextEditor.runtimeconfig.json
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/bin/Debug/net6.0/TextEditor.dll
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/bin/Debug/net6.0/ref/TextEditor.dll
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/bin/Debug/net6.0/TextEditor.pdb
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/obj/Debug/net6.0/TextEditor.csproj.AssemblyReference.cache
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/obj/Debug/net6.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfoInputs.cache
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfo.cs
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/obj/Debug/net6.0/TextEditor.csproj.CoreCompileInputs.cache
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/obj/Debug/net6.0/TextEditor.dll
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/obj/Debug/net6.0/ref/TextEditor.dll
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/obj/Debug/net6.0/TextEditor.pdb
+/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/obj/Debug/net6.0/TextEditor.genruntimeconfig.cache
