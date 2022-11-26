@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/leandro/.nuget/packages/": {}
+    "C:\\Users\\Leandro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/TextEditor.csproj",
+      "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\balta.io\\fundamentosCsharp\\Modulo 07 - TextEditor\\TextEditor\\TextEditor.csproj",
       "projectName": "TextEditor",
-      "projectPath": "/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/TextEditor.csproj",
-      "packagesPath": "/home/leandro/.nuget/packages/",
-      "outputPath": "/run/media/leandro/Disco Local/Users/Leandro/Projetos/balta.io/fundamentosCsharp/Modulo 07 - TextEditor/TextEditor/obj/",
+      "projectPath": "D:\\Users\\Leandro\\Projetos\\balta.io\\fundamentosCsharp\\Modulo 07 - TextEditor\\TextEditor\\TextEditor.csproj",
+      "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\Leandro\\Projetos\\balta.io\\fundamentosCsharp\\Modulo 07 - TextEditor\\TextEditor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/leandro/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
