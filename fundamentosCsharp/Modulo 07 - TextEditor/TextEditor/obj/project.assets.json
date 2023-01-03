@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\balta.io\\fundamentosCsharp\\Modulo 07 - TextEditor\\TextEditor\\TextEditor.csproj",
+      "projectUniqueName": "E:\\Projects\\balta.io\\fundamentosCsharp\\Modulo 07 - TextEditor\\TextEditor\\TextEditor.csproj",
       "projectName": "TextEditor",
-      "projectPath": "D:\\Users\\Leandro\\Projetos\\balta.io\\fundamentosCsharp\\Modulo 07 - TextEditor\\TextEditor\\TextEditor.csproj",
+      "projectPath": "E:\\Projects\\balta.io\\fundamentosCsharp\\Modulo 07 - TextEditor\\TextEditor\\TextEditor.csproj",
       "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Leandro\\Projetos\\balta.io\\fundamentosCsharp\\Modulo 07 - TextEditor\\TextEditor\\obj\\",
+      "outputPath": "E:\\Projects\\balta.io\\fundamentosCsharp\\Modulo 07 - TextEditor\\TextEditor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

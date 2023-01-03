@@ -13,7 +13,7 @@ static void Menu()
 
     switch (option)
     {
-        case 0: System.Environment.Exit(0); break;
+        case 0: Environment.Exit(0); break;
         case 1: Abrir(); break;
         case 2: Editar(); break;
         default: Menu(); break;
@@ -22,7 +22,19 @@ static void Menu()
 
 static void Abrir()
 {
+    Console.Clear();
+    Console.Write("Qual o caminho do arquivo? ");
+    string path = Console.ReadLine();
+    
+    using (var file = new StreamReader(path))
+    {
+        string text = file.ReadToEnd();
+        Console.WriteLine(text);
+    }
 
+    Console.WriteLine("");
+    Console.ReadLine();
+    Menu();
 }
 
 static void Editar()

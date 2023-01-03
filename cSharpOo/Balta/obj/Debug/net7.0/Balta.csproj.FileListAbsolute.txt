@@ -1,0 +1,30 @@
+E:/Projects/balta.io/cSharpOo/Balta/bin/Debug/net7.0/Balta.exe
+E:/Projects/balta.io/cSharpOo/Balta/bin/Debug/net7.0/Balta.deps.json
+E:/Projects/balta.io/cSharpOo/Balta/bin/Debug/net7.0/Balta.runtimeconfig.json
+E:/Projects/balta.io/cSharpOo/Balta/bin/Debug/net7.0/Balta.dll
+E:/Projects/balta.io/cSharpOo/Balta/bin/Debug/net7.0/Balta.pdb
+E:/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.csproj.AssemblyReference.cache
+E:/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.GeneratedMSBuildEditorConfig.editorconfig
+E:/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.AssemblyInfoInputs.cache
+E:/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.AssemblyInfo.cs
+E:/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.csproj.CoreCompileInputs.cache
+E:/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.dll
+E:/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/refint/Balta.dll
+E:/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.pdb
+E:/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.genruntimeconfig.cache
+E:/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/ref/Balta.dll
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/bin/Debug/net7.0/Balta
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/bin/Debug/net7.0/Balta.deps.json
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/bin/Debug/net7.0/Balta.runtimeconfig.json
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/bin/Debug/net7.0/Balta.dll
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/bin/Debug/net7.0/Balta.pdb
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.csproj.AssemblyReference.cache
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.AssemblyInfoInputs.cache
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.AssemblyInfo.cs
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.csproj.CoreCompileInputs.cache
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.dll
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/refint/Balta.dll
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.pdb
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/Balta.genruntimeconfig.cache
+/run/media/leandro/Novo volume/Projects/balta.io/cSharpOo/Balta/obj/Debug/net7.0/ref/Balta.dll

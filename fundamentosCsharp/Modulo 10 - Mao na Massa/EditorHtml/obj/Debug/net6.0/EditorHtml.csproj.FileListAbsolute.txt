@@ -1,0 +1,15 @@
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\bin\Debug\net6.0\EditorHtml.exe
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\bin\Debug\net6.0\EditorHtml.deps.json
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\bin\Debug\net6.0\EditorHtml.runtimeconfig.json
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\bin\Debug\net6.0\EditorHtml.dll
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\bin\Debug\net6.0\EditorHtml.pdb
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.AssemblyReference.cache
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\obj\Debug\net6.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfoInputs.cache
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfo.cs
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.CoreCompileInputs.cache
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\obj\Debug\net6.0\EditorHtml.dll
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\obj\Debug\net6.0\refint\EditorHtml.dll
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\obj\Debug\net6.0\EditorHtml.pdb
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\obj\Debug\net6.0\EditorHtml.genruntimeconfig.cache
+E:\Projects\balta.io\fundamentosCsharp\Modulo 10 - Mao na Massa\EditorHtml\obj\Debug\net6.0\ref\EditorHtml.dll
