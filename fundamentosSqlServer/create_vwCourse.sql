@@ -1,3 +1,4 @@
+-- Criação de uma View
 CREATE OR ALTER VIEW vwCourses
 AS
     SELECT

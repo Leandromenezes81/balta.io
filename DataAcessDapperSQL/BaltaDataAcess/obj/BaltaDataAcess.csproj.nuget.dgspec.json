@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/run/media/leandro/Novo volume/Projects/balta.io/DataAcessDapperSQL/BaltaDataAcess/BaltaDataAcess.csproj": {}
+  },
+  "projects": {
+    "/run/media/leandro/Novo volume/Projects/balta.io/DataAcessDapperSQL/BaltaDataAcess/BaltaDataAcess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/run/media/leandro/Novo volume/Projects/balta.io/DataAcessDapperSQL/BaltaDataAcess/BaltaDataAcess.csproj",
+        "projectName": "BaltaDataAcess",
+        "projectPath": "/run/media/leandro/Novo volume/Projects/balta.io/DataAcessDapperSQL/BaltaDataAcess/BaltaDataAcess.csproj",
+        "packagesPath": "/home/leandro/.nuget/packages/",
+        "outputPath": "/run/media/leandro/Novo volume/Projects/balta.io/DataAcessDapperSQL/BaltaDataAcess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/leandro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
